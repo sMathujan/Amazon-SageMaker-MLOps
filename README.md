@@ -1,2 +1,3 @@
 # Amazon-SageMaker-MLOps
-Amazon SageMaker MLOps: from idea to production
+
+[Project Documentation]: (https://drive.google.com/file/d/1tZTKj6wIv1CUgIPGWnbHONNWk2u4Yr3b/view?usp=sharing)
